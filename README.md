@@ -33,7 +33,6 @@ My work combines **real-world training scenarios** with **interactive VR experie
 
 ## 🧱 Featured Projects
 ### 🚗 **VR Driving Safety Simulator**
-- Developed for **General Motors Egypt** campaign  
 - Integrated with **Meta Quest 2** and steering controls  
 - Realistic physics, training modules, and hazard detection
 
